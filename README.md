@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Japhlet's Programming with CSharp Repository
 
 You can use the [editor on GitHub](https://github.com/iamjaphy/Programmming-with-C-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
